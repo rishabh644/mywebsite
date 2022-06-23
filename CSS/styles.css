@@ -133,9 +133,9 @@ li{
   border-width:3px;
   border-style: solid;
   border-color: black;
-  background-color:blue;
+  background-color:#ffffff;
   padding: 4px;
-  color: yellowgreen;
+  color:black;
   }
   li a{
     text-decoration: none;
